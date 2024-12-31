@@ -1,3 +1,3 @@
 # Blogs
 
-This repository is used to backup drafts and articles from Hashnode.
+This repository serves as a backup storage for Hashnode blog posts and drafts.
